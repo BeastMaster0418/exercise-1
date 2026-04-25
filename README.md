@@ -1,0 +1,1 @@
+Read the contents of "Extraction File.xlsx" file and "Customer Supplied RM List.clsc" file of data/raw directory, convert the data, and store it in "Raw Materials Template(Hiring).xlsx" file of data/processed.
